@@ -3,6 +3,6 @@ import { defineConfig } from 'mobilewright';
 export default defineConfig({
   testDir: "./tests",
   platform: "android",
-  bundleId: "com.inventoryhub.app",
+  bundleId: "asia.ifarmer.supplier.dev",
   reporter: [['html', { open: 'never' }]],
 });

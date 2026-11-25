@@ -53,7 +53,7 @@ The setup wizard will prompt you to select:
 
 - **Programming language** — TypeScript or JavaScript
 - **Platform** — Android or iOS
-- **App bundle ID** — e.g. `com.inventoryhub.app`
+- **App bundle ID** — e.g. `asia.ifarmer.supplier.dev`
 - **Test directory** — e.g. `tests`
 
 ---
